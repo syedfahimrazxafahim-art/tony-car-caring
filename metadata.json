@@ -1,0 +1,6 @@
+{
+  "name": "Tony’s Car Care",
+  "description": "Premium mobile car washing and automotive detailing service based in Los Angeles, California.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
